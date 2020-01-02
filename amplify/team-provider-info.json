@@ -1,0 +1,15 @@
+{
+    "true": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-refillapp-true-145139-authRole",
+            "UnauthRoleArn": "arn:aws:iam::007181558379:role/amplify-refillapp-true-145139-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::007181558379:role/amplify-refillapp-true-145139-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-refillapp-true-145139-deployment",
+            "UnauthRoleName": "amplify-refillapp-true-145139-unauthRole",
+            "StackName": "amplify-refillapp-true-145139",
+            "StackId": "arn:aws:cloudformation:us-east-2:007181558379:stack/amplify-refillapp-true-145139/4c929360-2d41-11ea-83f4-06c94a3c6390",
+            "AmplifyAppId": "d3g0ipvh4w0yuc"
+        }
+    }
+}
