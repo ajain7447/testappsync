@@ -29,14 +29,14 @@
 				},
 				"GraphQLAPIIdOutput": "qzv6bzpyanfdnnxuys4enmlis4",
 				"GraphQLAPIEndpointOutput": "https://nrv2pnunyjbrld5nnzsi5fhhqu.appsync-api.us-east-2.amazonaws.com/graphql",
-				"GraphQLAPIKeyOutput": "da2-intli6n5fbgynj3rxg33uafhzi"
+				"GraphQLAPIKeyOutput": "da2-qpw2hwjcpzdkxmv74lo5mf6lfe"
 			},
 			"providerMetadata": {
 				"s3TemplateURL": "https://s3.amazonaws.com/amplify-refillapp-true-145139-deployment/amplify-cfn-templates/api/cloudformation-template.json",
 				"logicalId": "apirefillapp"
 			},
-			"lastPushTimeStamp": "2020-01-09T02:12:34.061Z",
-			"lastPushDirHash": "qX3YFw06LFJ+HokKqteTL9au6G4="
+			"lastPushTimeStamp": "2020-01-09T05:37:48.716Z",
+			"lastPushDirHash": "6rudn7ah3NdeYCs8P8c2tjyujF4="
 		}
 	}
 }

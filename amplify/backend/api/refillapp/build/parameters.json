@@ -3,6 +3,7 @@
     "AppSyncApiName": "refillapp",
     "DynamoDBBillingMode": "PAY_PER_REQUEST",
     "DynamoDBEnableServerSideEncryption": "false",
+    "APIKeyExpirationEpoch": 1579066456,
     "S3DeploymentBucket": "amplify-refillapp-true-145139-deployment",
-    "S3DeploymentRootKey": "amplify-appsync-files/6cb1c5c0f957c0c7a1fc33dbc34fc0de8522aea4"
+    "S3DeploymentRootKey": "amplify-appsync-files/51222168ec6d7df6ec09a8eafac7280439663c41"
 }
